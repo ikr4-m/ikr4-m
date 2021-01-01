@@ -5,4 +5,12 @@
 Dah lah, itu aja. Nanti diperbaikin deh...
 
 ## Dotfiles
-* 🖥 [Vim Customization](https://github.com/skymunn/.vimrc)
+* 🖥 [.vimrc](https://github.com/skymunn/.vimrc)
+
+## Another Link
+* [Website](https://skymunn.github.io/)
+* [Sourcehut](https://git.sr.ht/~munn)
+* [LinkedIn](https://www.linkedin.com/in/ikramullah-ikram-0a85b8151/)
+* [Facebook](https://web.facebook.com/ikram.sekai)
+* [Twitter](https://twitter.com/ISirienz)
+* [Codewars](https://www.codewars.com/users/skymunn)
