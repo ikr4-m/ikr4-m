@@ -4,10 +4,8 @@
 
 Dah lah, itu aja. Nanti diperbaikin deh...
 
-## Dotfiles
-* 🖥 [.vimrc](https://github.com/skymunn/.vimrc)
-
 ## Another Link
+* [Dotfiles](https://github.com/skymunn/dotfiles)
 * [Website](https://skymunn.github.io/)
 * [Sourcehut](https://git.sr.ht/~munn)
 * [LinkedIn](https://www.linkedin.com/in/ikramullah-ikram-0a85b8151/)
