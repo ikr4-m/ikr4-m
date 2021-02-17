@@ -2,9 +2,9 @@
 
 # Hello World!
 
-I'm a backend developer and data analyst from Makassar, South Sulawesi, Indonesia. Currently I was taking bachelor degree of Techincal Information. I'm still not working. But I am currently still accepting projects as a freelancer.
+I'm a backend developer and data analyst from Makassar, South Sulawesi, Indonesia. I like trying and experimenting some absurd things in programming world especially in backend side.
 
-I like trying and experimenting some absurd things in programming world especially in backend side.
+Currently I was taking bachelor degree of Techincal Information. I'm still not working. But I am currently still accepting projects as a freelancer.
 
 ## Reach Me!
 * [Dotfiles](https://github.com/skymunn/dotfiles)
