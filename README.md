@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ikr4mm/dotfiles">Dotfiles</a> | 
-  <a href="https://ikr4mm.github.io/">Website</a> | 
+  <a href="https://thatismunn.github.io/">Website</a> | 
   <a href="https://git.sr.ht/~munn">Sourcehut</a> | 
   <a href="https://www.linkedin.com/in/ikramullah-ikram-0a85b8151/">LinkedIn</a> | 
   <a href="https://web.facebook.com/ikram.sekai">Facebook</a> | 
