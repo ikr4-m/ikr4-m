@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img alt="Banner" src="https://raw.githubusercontent.com/ikr4mm/ikr4mm/master/github_banner.jpg">
+    <img alt="Banner" src="https://raw.githubusercontent.com/ikr4mm/ikr4mm/master/github_banner.png">
   </a>
 </p>
 
